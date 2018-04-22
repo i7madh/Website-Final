@@ -1,0 +1,60 @@
+body {
+  padding-top: 50px ;
+
+
+}
+
+#headerWrapper {
+  position: relative;
+  padding: 0 ;
+  margin: 0 ;
+  overflow: hidden;
+  height: 1080px ;
+  background-color: red;
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 1280px
+}
+
+.img-style {
+  width: 220px;
+  height: 220px ;
+
+
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: gray;
+   color: white;
+   text-align: center;
+}
+
+img.details {
+width: 120% ;
+margin: 15px auto;
+}
+
+.table-auto {
+width: auto ;
+margin: 0 auto ;
+}
+
+.row {
+  margin:0 auto; /* this will center the page */
+   width:95%; /*  use your width here */
+}
+
+div
+{
+    padding: 2px;
+    padding-left: 2px;
+}
+.saved-image img{
+
+ width: 300px ;
+ height: auto ;
+}
